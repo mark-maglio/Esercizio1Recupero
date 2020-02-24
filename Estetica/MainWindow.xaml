@@ -10,7 +10,7 @@
         <Button Content="1" HorizontalAlignment="Left" Margin="145,78,0,0" VerticalAlignment="Top" Width="72" Height="46" FontSize="22"/>
         <Button Content="2" HorizontalAlignment="Left" Margin="281,78,0,0" VerticalAlignment="Top" Width="75" Height="46" FontSize="22"/>
         <Button Content="3" HorizontalAlignment="Left" Margin="419,78,0,0" VerticalAlignment="Top" Width="75" Height="46" FontSize="22"/>
-        <Button Content="/" HorizontalAlignment="Left" Margin="556,78,0,0" VerticalAlignment="Top" Width="65" Height="46" FontSize="22"/>
+        <Button Content="/" HorizontalAlignment="Left" Margin="556,63,0,0" VerticalAlignment="Top" Width="65" Height="46" FontSize="22"/>
         <Button Content="4" HorizontalAlignment="Left" Margin="145,169,0,0" VerticalAlignment="Top" Width="72" Height="49" FontSize="22"/>
         <Button Content="7" HorizontalAlignment="Left" Margin="145,256,0,0" VerticalAlignment="Top" Width="72" Height="51" FontSize="22"/>
         <Button Content="," HorizontalAlignment="Left" Margin="145,341,0,0" VerticalAlignment="Top" Width="72" Height="50" FontSize="22"/>
