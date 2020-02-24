@@ -1,0 +1,28 @@
+﻿<Window x:Class="Estetica.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Estetica"
+        mc:Ignorable="d"
+        Title="Calcolatrice" Height="450" Width="635.897">
+    <Grid Margin="-74,0,2,12">
+        <Button Content="1" HorizontalAlignment="Left" Margin="145,78,0,0" VerticalAlignment="Top" Width="72" Height="46" FontSize="22"/>
+        <Button Content="2" HorizontalAlignment="Left" Margin="281,78,0,0" VerticalAlignment="Top" Width="75" Height="46" FontSize="22"/>
+        <Button Content="3" HorizontalAlignment="Left" Margin="419,78,0,0" VerticalAlignment="Top" Width="75" Height="46" FontSize="22"/>
+        <Button Content="/" HorizontalAlignment="Left" Margin="556,78,0,0" VerticalAlignment="Top" Width="65" Height="46" FontSize="22"/>
+        <Button Content="4" HorizontalAlignment="Left" Margin="145,169,0,0" VerticalAlignment="Top" Width="72" Height="49" FontSize="22"/>
+        <Button Content="7" HorizontalAlignment="Left" Margin="145,256,0,0" VerticalAlignment="Top" Width="72" Height="51" FontSize="22"/>
+        <Button Content="," HorizontalAlignment="Left" Margin="145,341,0,0" VerticalAlignment="Top" Width="72" Height="50" FontSize="22"/>
+        <Button Content="5" HorizontalAlignment="Left" Margin="281,169,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.22,0.905" Height="49" FontSize="22"/>
+        <Button Content="6" HorizontalAlignment="Left" Margin="419,169,0,0" VerticalAlignment="Top" Width="75" Height="49" FontSize="22"/>
+        <Button Content="*" HorizontalAlignment="Left" Margin="556,169,0,0" VerticalAlignment="Top" Width="65" Height="49" FontSize="24"/>
+        <Button Content="8" HorizontalAlignment="Left" Margin="281,256,0,0" VerticalAlignment="Top" Width="75" Height="51" FontSize="22"/>
+        <Button Content="9" HorizontalAlignment="Left" Margin="419,256,0,0" VerticalAlignment="Top" Width="75" Height="51" FontSize="22"/>
+        <Button Content="+" HorizontalAlignment="Left" Margin="556,256,0,0" VerticalAlignment="Top" Width="65" Height="51" FontSize="22"/>
+        <Button Content="0" HorizontalAlignment="Left" Margin="281,341,0,0" VerticalAlignment="Top" Width="75" Height="50" FontSize="22"/>
+        <Button Content="=" HorizontalAlignment="Left" Margin="419,341,0,0" VerticalAlignment="Top" Width="75" Height="50" FontSize="22"/>
+        <Button Content="-" HorizontalAlignment="Left" Margin="556,341,0,0" VerticalAlignment="Top" Width="65" RenderTransformOrigin="0.396,-0.406" Height="50" FontSize="22"/>
+
+    </Grid>
+</Window>
